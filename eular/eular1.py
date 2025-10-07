@@ -11,4 +11,3 @@ def sum_of_multiples(limit):
             total_sum += number
     return total_sum
 
-print(sum_of_multiples(1000))
